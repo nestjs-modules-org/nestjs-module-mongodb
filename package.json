@@ -1,5 +1,5 @@
 {
-  "name": "@nestjs-modules-org/mongodb",
+  "name": "nestjs-module-mongodb",
   "version": "0.0.1",
   "description": "Simple NestJS module for MongoDB",
   "keywords": [
