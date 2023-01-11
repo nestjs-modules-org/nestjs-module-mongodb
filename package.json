@@ -1,6 +1,6 @@
 {
   "name": "nestjs-module-mongodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NestJS module for MongoDB",
   "repository": "nestjs-modules-org/nestjs-module-mongodb",
   "keywords": [
