@@ -24,7 +24,7 @@ import { Module } from "@nestjs/common";
 import { MongoModule } from "nestjs-module-mongodb";
 
 @Module({
-  imports: [MongoModule.forCollection("example")],
+  imports: [MongoModule.registerCollection("example")],
 })
 export class ExampleModule {}
 // example.service.ts
